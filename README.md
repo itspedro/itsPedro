@@ -1,4 +1,4 @@
-### Bem vindo!
+### `Welcome!`
 
 <div>
   <a href="https://github.com/itsPedro">
