@@ -5,7 +5,7 @@
 <br/>
 <br />
 
-<h2 style='color: #c4b5fd' align='center'> Stacks</h2>
+<h2 style='color: #c4b5fd' align='center'>Stacks</h2>
 <br />
 <header>
   <div align="center">
@@ -19,7 +19,7 @@
 
 <br /><br />
 
-<h2 style='color: #c4b5fd' align='center'> Statistics</h2>
+<h2 style='color: #c4b5fd' align='center'>Statistics</h2>
     <div align="center">
       <a href="https://github.com/itspedro?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
