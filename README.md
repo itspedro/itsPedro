@@ -8,13 +8,15 @@
 <h2 style='color: #c4b5fd' align='center'>Stacks</h2>
 <br />
 <header>
-  <div align="center">
-      <img src="https://img.shields.io/badge/JavaScript-7733ff?style=for-the-badge&logo=javaScript&logoColor=white">
-      <img src="https://img.shields.io/badge/HTML-7733ff?style=for-the-badge&logo=HTML5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-7733ff?style=for-the-badge&logo=CSS3&logoColor=white">
-      <img src="https://img.shields.io/badge/MongoDB-7733ff?style=for-the-badge&logo=mongoDb&logoColor=white">
-      <img src="https://img.shields.io/badge/React-7733ff?style=for-the-badge&logo=React&logoColor=white">
-  </div>
+   <a href="https://github.com/itsPedro">
+    <div align="center">
+        <img src="https://img.shields.io/badge/JavaScript-7733ff?style=for-the-badge&logo=javaScript&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML-7733ff?style=for-the-badge&logo=HTML5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-7733ff?style=for-the-badge&logo=CSS3&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-7733ff?style=for-the-badge&logo=mongoDb&logoColor=white">
+        <img src="https://img.shields.io/badge/React-7733ff?style=for-the-badge&logo=React&logoColor=white">
+    </div>
+  </a>
 </header>
 
 <br /><br />
