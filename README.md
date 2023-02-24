@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7733ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7733ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Pedro+Reis;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=35&duration=3000&pause=1000&color=7733FF&center=true&vCenter=true&width=1000&lines=Hi;I'm+Pedro+Reis;I'm+18+years+old;Be+Welcome+:%29)](https://git.io/typing-svg)
 
-<br /><br />
-
-<h2 align='center'>Stacks</h2>
+<h2 align='center'>ToolBox </h2>
 
 <br />
 <header>
@@ -15,9 +13,10 @@
            <img src="https://img.shields.io/badge/TypeScript-7733ff?style=for-the-badge&logo=TypeScript&logoColor=white">
            <img src="https://img.shields.io/badge/HTML-7733ff?style=for-the-badge&logo=HTML5&logoColor=white">
            <img src="https://img.shields.io/badge/CSS-7733ff?style=for-the-badge&logo=CSS3&logoColor=white">
-           <img src="https://img.shields.io/badge/MongoDB-7733ff?style=for-the-badge&logo=mongoDb&logoColor=white">
            <img src="https://img.shields.io/badge/React-7733ff?style=for-the-badge&logo=React&logoColor=white">
            <img src="https://img.shields.io/badge/Tailwind-7733ff?style=for-the-badge&logo=Tailwindcss&logoColor=white">
+           <img src="https://img.shields.io/badge/MongoDB-7733ff?style=for-the-badge&logo=mongoDb&logoColor=white">
+           <img src="https://img.shields.io/badge/VS Code-7733ff?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
        </span>
     </div>
   </a>
