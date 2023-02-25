@@ -1,6 +1,8 @@
 <a href="https://github.com/itsPedro">
 
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itspedro/itspedro/main/header.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itspedro/itspedro/main/header-white.svg"/>
     <img alt="Pedro Reis · Front-End Developer" src="https://raw.githubusercontent.com/itspedro/itspedro/main/header.svg" width="100%" />
   </picture>
   
@@ -65,4 +67,9 @@
     </div>
   <br /><br />
 </details>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=120&section=footer"/>
+
+<a href="https://github.com/itspedro">
+  <picture>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=120&section=footer"/>
+  </picture>
+</a>
