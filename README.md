@@ -20,7 +20,7 @@
            <img src="https://img.shields.io/badge/JavaScript-5E5CE0?style=for-the-badge&logo=javaScript&logoColor=white">
            <img src="https://img.shields.io/badge/TypeScript-5E5CE0?style=for-the-badge&logo=TypeScript&logoColor=white">
            <img src="https://img.shields.io/badge/HTML-5E5CE0?style=for-the-badge&logo=HTML5&logoColor=white">
-           <img src="https://img.shields.io/badge/CSS-5E5CE0?style=for-the-badge&logo=CSS3&logoColor=white">
+           <img src="https://img.shields.io/badge/CSS-5E5CE0?style=for-the-badge&logo=CSS3&logoColor=white"><br/>
            <img src="https://img.shields.io/badge/React-5E5CE0?style=for-the-badge&logo=React&logoColor=white">
            <img src="https://img.shields.io/badge/Tailwind-5E5CE0?style=for-the-badge&logo=Tailwindcss&logoColor=white">
            <img src="https://img.shields.io/badge/MongoDB-5E5CE0?style=for-the-badge&logo=mongoDb&logoColor=white">
@@ -50,7 +50,7 @@
 <br /><br />
 
 <details>
-<summary><h2>Currently on</h2></summary>
+<summary><h2>Currently on...</h2></summary>
     <div>
     <br /><br />
       <div align="center">
