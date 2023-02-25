@@ -113,8 +113,8 @@
   
   <defs>
     <linearGradient id="paint0_linear_1_2" x1="448" y1="0" x2="448" y2="288" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#334155"/>
-      <stop offset="1" stop-color="#292861" stop-opacity="0"/>
+      <stop stop-color="#292861"/>
+      <stop offset="1" stop-color="#334155" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="paint1_linear_1_2" x1="448" y1="0" x2="448" y2="288" gradientUnits="userSpaceOnUse">
       <stop/>
