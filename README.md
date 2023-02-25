@@ -1,10 +1,14 @@
 <a href="https://github.com/itsPedro">
+
   <picture>
     <img alt="Pedro Reis · Front-End Developer" src="https://raw.githubusercontent.com/itspedro/itspedro/main/header.svg" width="100%" />
   </picture>
-</a>
+  
+  <picture>
+    <img alt="Pedro Reis · Front-End Developer" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=35&duration=3000&pause=1000&color=7733FF&center=true&vCenter=true&width=1000&lines=Hi;I'm+18+years+old;Be+Welcome+:%29" width="100%" />
+  </picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=35&duration=3000&pause=1000&color=7733FF&center=true&vCenter=true&width=1000&lines=Hi;I'm+18+years+old;Be+Welcome+:%29)](https://git.io/typing-svg)
+</a>
 
 <h2 align='center'>ToolBox </h2>
 
