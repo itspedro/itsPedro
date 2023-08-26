@@ -1,4 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="896" height="288" viewBox="0 0 896 288" fill="none">
+  <style>
+    * {
+      transform-origin: center;
+      transform-box: fill-box;
+    }
+    .animate-fade-in {
+      animation: fade-in 0.64s cubic-bezier(0, 0, 0.2, 1) forwards;
+    }
+    .animate-fade-in-bottom {
+      animation: fade-in-bottom 0.64s cubic-bezier(0, 0, 0.2, 1) forwards;
+    }
+    .animate-fade-in-right {
+      animation: fade-in-right 0.64s cubic-bezier(0, 0, 0.2, 1) forwards;
+    }
+    .title {
+      opacity: 0;
+      animation-delay: 0.4s;
+    }
+    @keyframes fade-in {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+    @keyframes fade-in-bottom {
+      from {
+        opacity: 0;
+        transform: translate3d(0, -20px, 0);
+      }
+      to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+      }
+    }
+  </style>
   <g clip-path="url(#clip0_1_2)">
 <!--#region background-->
     <rect width="896" height="288" fill="url(#paint0_linear_1_2)"/>
