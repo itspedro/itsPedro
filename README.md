@@ -7,9 +7,9 @@
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3000&pause=1000&color=fffff0&center=true&vCenter=true&width=1000&height=32&lines=Hi!+👋;Be+Welcome;Click+to+see+more">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3000&pause=1000&color=334155&center=true&vCenter=true&width=1000&height=32&lines=Hi!+👋;Be+Welcome;Click+to+see+more" />
-    <img alt="Pedro Reis · Web Developer" align="right" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3000&pause=1000&color=fffff0&center=true&vCenter=true&width=1000&height=32&lines=Hi!+👋;Be+Welcome;Click+to+see+more" align="center" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3000&pause=1000&color=fffff0&center=true&vCenter=true&width=1000&height=32&lines=Hello!+👋;Welcome;Click+to+see+more!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3000&pause=1000&color=334155&center=true&vCenter=true&width=1000&height=32&lines=Hello!+👋;Welcome;Click+to+see+more!" />
+    <img alt="Pedro Reis · Web Developer" align="right" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=3000&pause=1000&color=fffff0&center=true&vCenter=true&width=1000&height=32&lines=Hello!+👋;Welcome;Click+to+see+more!" align="center" width="100%" />
   </picture>
 </a>
 
