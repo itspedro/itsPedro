@@ -1,5 +1,5 @@
 <p float="left">
-    <img src="https://i.pinimg.com/originals/19/32/4a/19324a087a3ff2fcd50154d9979231c5.gif" width="500" height="800" align="left">
+    <img src="https://i.pinimg.com/originals/19/32/4a/19324a087a3ff2fcd50154d9979231c5.gif" width="350" height="750" align="left">
   <p float="left">
     <samp>
       hey!
