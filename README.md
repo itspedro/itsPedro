@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://itspedro.github.io">
     <picture>
-      <img src="https://itspedro.github.io/age-badge.svg" alt="Pedro's age" />
+      <img src="https://itspedro.github.io/age/age-badge.svg" alt="Pedro's age" />
     </picture>
   <a>
 </p>
