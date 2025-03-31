@@ -8,16 +8,12 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.linkedin.com/in/itspedro/">
+    <a href="https://itspedro.github.io">
       me
     </a>
     •
     <a href="https://github.com/itspedro?tab=repositories&q=&type=&language=&sort=stargazers">
       projects
-    </a>
-    •
-    <a href="https://pedro-reis.vercel.app/notas">
-      notes
     </a>
     •
     <a href="mailto:preis.ctt@gmail.com">
