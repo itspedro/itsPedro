@@ -11,6 +11,6 @@
   <a href="https://itspedro.github.io">me</a> /
   <a href="https://itspedro.github.io/notes">notes</a> /
   <a href="https://github.com/itspedro?tab=repositories&q=&type=&language=&sort=stargazers">projects</a> /
-  <a href="mailto:preis.ctt@gmail.com">email</a>
+  <a href="mailto:pdro@duck.com">email</a>
  </samp>
 </p>
